@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_blue_379AEB">#379AEB</color>
+    <color name="color_blue_096096">#096096</color><!-- tab text blue -->
+    <color name="color_commen_titile_blue_125589">#125589</color><!-- tab text blue -->
+    <color name="color_blue_81ADC8">#81ADC8</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_blue_329cdb">#329cdb</color>
+</resources>

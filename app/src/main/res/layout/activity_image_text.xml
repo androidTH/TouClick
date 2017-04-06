@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:img="http://schemas.android.com/apk/res-auto"
+    tools:layout_editor_absoluteY="0dp"
+    tools:layout_editor_absoluteX="8dp">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="170dp">
+        <com.example.hoolai.touclick.ImgTxtButton
+            android:id="@+id/imgtxtbutton"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:textSize="15sp"
+            android:textColor="@color/color_white"
+            img:checktxt="@string/click_check"
+            img:checkoktxt="@string/check_success"
+            img:checkerrortxt="@string/check_fail"
+            img:checkbg="@drawable/btn_click_normal"
+            img:checkokbg="@drawable/btn_click_normal"
+            img:checktype="13"/>
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/logo_w"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvresult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

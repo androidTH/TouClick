@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="checktype" format="string"></attr>
+    <attr name="checktxt" format="string"></attr>
+    <attr name="checkoktxt" format="string"></attr>
+    <attr name="checkerrortxt" format="string"></attr>
+    <attr name="checkbg" format="reference"></attr>
+    <attr name="checkokbg" format="reference"></attr>
+    <attr name="checkwidth" format="dimension"></attr>
+    <attr name="checkheight" format="dimension"></attr>
+
+    <declare-styleable name="ImgTextCheck">
+        <attr name="checktype"></attr>
+        <attr name="checkoktxt"></attr>
+        <attr name="checkerrortxt"></attr>
+        <attr name="checktxt"></attr>
+        <attr name="checkbg"></attr>
+        <attr name="checkokbg"></attr>
+        <attr name="checkwidth"></attr>
+        <attr name="checkheight"></attr>
+    </declare-styleable>
+</resources>
