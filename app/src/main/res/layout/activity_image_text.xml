@@ -12,7 +12,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="170dp">
-        <com.example.hoolai.touclick.ImgTxtButton
+        <com.touclick.android.ImgTxtButton
             android:id="@+id/imgtxtbutton"
             android:layout_width="280dp"
             android:layout_height="45dp"

@@ -12,7 +12,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="170dp">
-        <com.example.hoolai.touclick.ImgTxtRelativeLayout
+        <com.touclick.android.ImgTxtRelativeLayout
             android:id="@+id/imgtxtrelativelayout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -5,7 +5,7 @@
     android:padding="15dp"
     android:background="@color/color_white">
 
-    <com.example.hoolai.touclick.ImgTxtLayout
+    <com.touclick.android.ImgTxtLayout
         android:id="@+id/eightimagelayout"
         android:layout_width="254dp"
         android:layout_height="152dp"/>
